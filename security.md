@@ -1,6 +1,6 @@
 # Pdf Page Remover: Free Download and Guide (2026)
 
-![Version](https://img.shields.io/badge/Version-2026-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=flat-square) ![Type](https://img.shields.io/badge/Type-PC Utility-E53935?style=flat-square)
+![Version](https://img.shields.io/badge/Version-2026-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=flat-square) ![Type](https://img.shields.io/badge/Type-PC_Utility-E53935?style=flat-square)
 
 **At a glance**
 
